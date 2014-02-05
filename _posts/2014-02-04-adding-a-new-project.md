@@ -87,7 +87,7 @@ Click "Provisioning Profiles > All" on the left nav.
 
 You should see a list of all of your provisioning profiles. Click the "+" to generate a new profile.  
 
-![Add Provisioning Profile](/img/07-add-provisioning-profile.png?raw=true)
+![Add Provisioning Profile]({{ site.baseurl }}/img/07-add-provisioning-profile.png?raw=true)
 <br />
 <br />
 
