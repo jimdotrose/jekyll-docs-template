@@ -31,13 +31,13 @@ To build your iOS project, Distiller needs to be able to sign your code for you.
 
 Go to https://developer.apple.com, log in, and navigate to "Certificates, Identifiers & Profiles".
 
-![Apple Developer Home](jekyll-docs/template/img/01-dev-center-home.png?raw=true) 
+![Apple Developer Home](jekyll-docs-template/img/01-dev-center-home.png?raw=true) 
 
 <br />
 Select "Certificates" to navigate to your iOS Certificate List.
 
 
-![Apple Certificates](/img/02-select-certificates.png)
+![Apple Certificates](jekyll-docs-template/img/02-select-certificates.png)
 <br />
 <br />
 
