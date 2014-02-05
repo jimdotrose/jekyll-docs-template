@@ -1,6 +1,10 @@
 ---
 layout: default
+<<<<<<< HEAD
 title: "Distiller Documentation"
+=======
+title: "Jekyll Docs Template"
+>>>>>>> df82ea4bf1f6cf7e343a3bfbce546b30a58a4da0
 ---
 
 ### Get Started

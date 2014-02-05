@@ -1,6 +1,11 @@
 # Site title and subtitle. This is used in _includes/header.html
+<<<<<<< HEAD
 title: 'Distiller Documentation'
 subtitle: 'Making iOS suck less, one walkthrough at a time'
+=======
+title: 'jekyll-docs-template'
+subtitle: 'Painless documentation for your projects'
+>>>>>>> df82ea4bf1f6cf7e343a3bfbce546b30a58a4da0
 
 # Enable/show navigation. There are there options:
 #   0 - always hide
