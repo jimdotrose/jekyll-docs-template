@@ -37,7 +37,7 @@ Go to https://developer.apple.com, log in, and navigate to "Certificates, Identi
 Select "Certificates" to navigate to your iOS Certificate List.
 
 
-![Apple Certificates](/img/02-select-certificates.png)
+![Apple Certificates](/img/02-select-certificates.png?raw=true)
 <br />
 <br />
 
@@ -45,7 +45,7 @@ Select "Certificates" to navigate to your iOS Certificate List.
 
 You should be viewing your list of iOS Certificates. We need to create a new one for your Distiller builds. Click on the "+" to enter the "Add iOS Certificate" flow.
 
-![iOS Certificate List](/img/03-add-new-certificate.png)
+![iOS Certificate List](/img/03-add-new-certificate.png?raw=true)
 <br />
 <br />
 
@@ -53,7 +53,7 @@ You should be viewing your list of iOS Certificates. We need to create a new one
 
 Now, you have to select your certificate type. Select "App Store and Ad Hoc" for the type of certificate you wish to create and click "Continue."
 
-![iOS Certificate Type](/img/04-select-certificate-type.png)
+![iOS Certificate Type](/img/04-select-certificate-type.png?raw=true)
 <br />
 <br />
 
@@ -65,7 +65,7 @@ Now, you have to select your certificate type. Select "App Store and Ad Hoc" for
 
 You should now see a file selector to select the CSR for your new certificate.
 
-![iOS CSR Selection](/img/05-upload-csr.png)
+![iOS CSR Selection](/img/05-upload-csr.png?raw=true)
 <br />
 <br />
 
@@ -81,13 +81,13 @@ Now, we need to create a new Provisioning Profile for your Distiller project.  A
 
 Click "Provisioning Profiles > All" on the left nav.
 
-![Go To Provisioning Profiles](/img/06-goto-provisioning-profiles.png)
+![Go To Provisioning Profiles](/img/06-goto-provisioning-profiles.png?raw=true)
 <br />
 <br />
 
 You should see a list of all of your provisioning profiles. Click the "+" to generate a new profile.  
 
-![Add Provisioning Profile](/img/07-add-provisioning-profile.png)
+![Add Provisioning Profile](/img/07-add-provisioning-profile.png?raw=true)
 <br />
 <br />
 
@@ -95,7 +95,7 @@ You should see a list of all of your provisioning profiles. Click the "+" to gen
 
 You should see the Select Profile Type page. Select "Ad Hoc" as the provisioning profile type and click "Continue."
 
-![Select Provisioning Profile Type](/img/08-select-profile-type.png)
+![Select Provisioning Profile Type](/img/08-select-profile-type.png?raw=true)
 <br />
 <br />
 ￼
@@ -103,7 +103,7 @@ You should see the Select Profile Type page. Select "Ad Hoc" as the provisioning
 
 Select the app id of the project you are building on Distiller, then click "Continue."
 
-![Select iOS App ID](/img/09-select-app-id.png)
+![Select iOS App ID](/img/09-select-app-id.png?raw=true)
 <br />
 <br />
 
@@ -111,7 +111,7 @@ Select the app id of the project you are building on Distiller, then click "Cont
 
 Now, associate this Provisioning Profile with your new Certificate. Select the certificate that you just created. In some cases, you may have more than one with the same name, and you will have to use the expiry date to find the right one. It will be 1 year from the day it was created (likely today). Click "Continue."
 
-![Select Certificate](/img/10-select-certificate.png)
+![Select Certificate](/img/10-select-certificate.png?raw=true)
 <br />
 <br />
 ￼
@@ -119,7 +119,7 @@ Now, associate this Provisioning Profile with your new Certificate. Select the c
 
 Now, you can select what devices will be able to download and install the app. Select the devices from your device list and click "Continue."
 
-![Select Devices](/img/11-select-devices.png)
+![Select Devices](/img/11-select-devices.png?raw=true)
 <br />
 <br />
 ￼
@@ -127,14 +127,14 @@ Now, you can select what devices will be able to download and install the app. S
 
 You're now ready to save the Provisioning Profile. Enter "distiller" as the profile name and click "Generate."
 
-![Name Provisioning Profile](/img/12-name-save-provisioning-profile.png)
+![Name Provisioning Profile](/img/12-name-save-provisioning-profile.png?raw=true)
 <br />
 <br />
 ￼
 #####13. Download your Provisioning Profile.
 Download the new Provisioning Profile you just created to your machine, which will be named "distiller.mobileprovision".  Keep that handy.
 
-![Download Provisioning Profile](/img/13-download-provisioning-profile.png)
+![Download Provisioning Profile](/img/13-download-provisioning-profile.png?raw=true)
 <br />
 <br />
 
